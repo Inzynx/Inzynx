@@ -1,6 +1,6 @@
 ### Infrastructure pentester · AD / Entra ID / Windows internals
 
-Belgium 🇧🇪 — I break into Active Directory, Azure/Entra, and ADCS,
+I break into Active Directory, Azure/Entra, and ADCS,
 and I write small tools to make that work faster.
 
 **What I'm building**
